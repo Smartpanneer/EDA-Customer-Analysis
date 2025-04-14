@@ -1,4 +1,3 @@
-# Customer Analysis EDA
 
 # Customer Analysis - EDA (Exploratory Data Analysis)
 
